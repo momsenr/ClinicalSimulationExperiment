@@ -1,0 +1,17 @@
+name: clinical_simulation
+channels:
+  - pytorch
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.11
+  - numpy
+  - matplotlib
+  - scikit-learn
+  - pytorch=2.0.0
+  - cudatoolkit=11.8
+  - scipy
+  - jupyter
+  - seaborn
+  - ca-certificates
+  - libcxx
