@@ -4,7 +4,8 @@
 
 ## Introduction
 
-This repository accompanies the paper "AI-Driven Disease Risk Stratification: Tackling the Challenge of Complex Confounders to Enable Precision-Medicine." In this paper, we address the critical challenges posed by complex confounders in disease prediction using Artificial Intelligence (AI) models based on electronic health record (EHR) data. This notebook contains all the code and analyses to run the clinical simulation experiment. Additionally, we provide the models and results that were used to generate the dataset in Figure 1 and Extended Data Figure 2.
+This repository accompanies the paper "AI-Driven Disease Risk Stratification: Tackling the Challenge of Complex Confounders to Enable Precision-Medicine." This notebook contains all the code and analyses to run the clinical simulation experiment. Additionally, we provide the models and results that were used to generate the dataset in Figure 1 and Extended Data Figure 2.
+
 ## Requirements
 
 To run this notebook, ensure that you have the following packages installed:
